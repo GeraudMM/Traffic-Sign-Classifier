@@ -1,4 +1,4 @@
-[image1]: output.gif "Trained Agent"
+[image1]: example.png "Trained Agent"
 
 # Traffic-Sign-Classifier
 In this Project, we will try to sort the German Traffic Signs using a Convolutional Neural Network.
