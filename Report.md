@@ -21,7 +21,7 @@ All the code for each step of this algorithm is contained in the `Traffic_Sign_C
 
 In this part, we first
 
-![data_exploration][image1] 
+![data_exploration][image2] 
 2. Design and Test a Model Architecture
 
 
