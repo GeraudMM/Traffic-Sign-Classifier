@@ -52,7 +52,7 @@ Now that our model works pretty well for a majority of image, we have to do the 
 I think there are at least 2 main points on which we could improve the efficience of the algorithm:
 
 - At first, We could try to have a better processing of our data, which mean that we could for example add noise or gaussian_blur on our inputs image, or feed the model with the RGB color space.
-- Finally, using the Keras environment, we could have a simpler implementation of our model and then it would be easier to find a better model four our data classification.
+- Finally, using the [Keras](https://keras.io) library, we could have a simpler implementation of our model and then it would be easier to find a better model four our data classification.
 
 
 
